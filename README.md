@@ -1,1 +1,1 @@
-#TypeScript 实现观察者模式
+# TypeScript 实现观察者模式
